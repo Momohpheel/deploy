@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[44],{481:function(n,t,c){"use strict";c.r(t);var e={asyncData:function(n){return(0,n.redirect)("/signin")}},r=c(0),component=Object(r.a)(e,(function(){return(0,this._self._c)("div",{staticClass:"container"},[this._v("my App")])}),[],!1,null,null,null);t.default=component.exports}}]);
