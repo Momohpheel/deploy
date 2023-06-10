@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[48],{394:function(t,e,n){"use strict";n.r(e);var o={created:function(){this.$store.commit("logout"),this.$router.push("/signin")}},r=n(0),component=Object(r.a)(o,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,"d8b313e6",null);e.default=component.exports}}]);
